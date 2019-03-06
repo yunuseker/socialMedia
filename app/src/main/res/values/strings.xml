@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">socialMedia</string>
+    <string name="title_followers">Followers</string>
+    <string name="title_movies">Movies</string>
+</resources>
